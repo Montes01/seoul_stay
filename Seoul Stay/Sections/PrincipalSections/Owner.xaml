@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="Seoul_Stay.Sections.PrincipalSections.Owner"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Seoul_Stay.Sections.PrincipalSections"
+             mc:Ignorable="d" 
+             Background="White"
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+        <Button Content="Add listing"  HorizontalAlignment="Left" VerticalAlignment="Center" Click="AddListing_Click" Name="AddListing" Margin="25 0 0 0" Padding="25 10 25 10" FontSize="20"/>
+        <DataGrid x:Name="Services" Grid.Row="1"/>
+
+
+    </Grid>
+</UserControl>

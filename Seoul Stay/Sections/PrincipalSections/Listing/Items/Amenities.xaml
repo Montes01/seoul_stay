@@ -1,0 +1,35 @@
+﻿<UserControl x:Class="Seoul_Stay.Sections.PrincipalSections.Listing.Items.Amenities"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Seoul_Stay.Sections.PrincipalSections.Listing.Items"
+             mc:Ignorable="d" 
+             Background="white"
+             d:DesignHeight="380" d:DesignWidth="700">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+
+        <Label Content="Choose Available Amenitites" FontSize="20" VerticalAlignment="Center"/>
+        <ListBox x:Name="AmenitiesList" Grid.Row="1" Width="500" HorizontalAlignment="Left">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="6*"/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+
+                        <TextBlock Text="{Binding Nombre}" Margin="35 0 0 0"  Grid.Column="1"/>
+                        
+                        <CheckBox Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked" Foreground="Transparent" Content="{Binding ID}"/>
+                    </Grid>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+    </Grid>
+</UserControl>

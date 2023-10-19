@@ -1,0 +1,31 @@
+C:\Users\Montes WorldSkills\Documents\MontesWork ( Don't touch )\CronogramaRetos\Seoul Stay\Seoul Stay\obj\Debug\Seoul Stay.csproj.AssemblyReference.cache
+C:\Users\Montes WorldSkills\Documents\MontesWork ( Don't touch )\CronogramaRetos\Seoul Stay\Seoul Stay\obj\Debug\MainWindow.g.cs
+C:\Users\Montes WorldSkills\Documents\MontesWork ( Don't touch )\CronogramaRetos\Seoul Stay\Seoul Stay\obj\Debug\Register.g.cs
+C:\Users\Montes WorldSkills\Documents\MontesWork ( Don't touch )\CronogramaRetos\Seoul Stay\Seoul Stay\obj\Debug\App.g.cs
+C:\Users\Montes WorldSkills\Documents\MontesWork ( Don't touch )\CronogramaRetos\Seoul Stay\Seoul Stay\obj\Debug\Seoul Stay_MarkupCompile.cache
+C:\Users\Montes WorldSkills\Documents\MontesWork ( Don't touch )\CronogramaRetos\Seoul Stay\Seoul Stay\obj\Debug\Seoul Stay_MarkupCompile.lref
+C:\Users\Montes WorldSkills\Documents\MontesWork ( Don't touch )\CronogramaRetos\Seoul Stay\Seoul Stay\bin\Debug\Seoul Stay.exe.config
+C:\Users\Montes WorldSkills\Documents\MontesWork ( Don't touch )\CronogramaRetos\Seoul Stay\Seoul Stay\bin\Debug\Seoul Stay.exe
+C:\Users\Montes WorldSkills\Documents\MontesWork ( Don't touch )\CronogramaRetos\Seoul Stay\Seoul Stay\bin\Debug\Seoul Stay.pdb
+C:\Users\Montes WorldSkills\Documents\MontesWork ( Don't touch )\CronogramaRetos\Seoul Stay\Seoul Stay\obj\Debug\MainWindow.baml
+C:\Users\Montes WorldSkills\Documents\MontesWork ( Don't touch )\CronogramaRetos\Seoul Stay\Seoul Stay\obj\Debug\Register.baml
+C:\Users\Montes WorldSkills\Documents\MontesWork ( Don't touch )\CronogramaRetos\Seoul Stay\Seoul Stay\obj\Debug\Seoul Stay.g.resources
+C:\Users\Montes WorldSkills\Documents\MontesWork ( Don't touch )\CronogramaRetos\Seoul Stay\Seoul Stay\obj\Debug\Seoul_Stay.Properties.Resources.resources
+C:\Users\Montes WorldSkills\Documents\MontesWork ( Don't touch )\CronogramaRetos\Seoul Stay\Seoul Stay\obj\Debug\Seoul Stay.csproj.GenerateResource.cache
+C:\Users\Montes WorldSkills\Documents\MontesWork ( Don't touch )\CronogramaRetos\Seoul Stay\Seoul Stay\obj\Debug\Seoul Stay.csproj.CoreCompileInputs.cache
+C:\Users\Montes WorldSkills\Documents\MontesWork ( Don't touch )\CronogramaRetos\Seoul Stay\Seoul Stay\obj\Debug\Seoul Stay.exe
+C:\Users\Montes WorldSkills\Documents\MontesWork ( Don't touch )\CronogramaRetos\Seoul Stay\Seoul Stay\obj\Debug\Seoul Stay.pdb
+C:\Users\Montes WorldSkills\Documents\MontesWork ( Don't touch )\CronogramaRetos\Seoul Stay\Seoul Stay\obj\Debug\Sections\Principal.g.cs
+C:\Users\Montes WorldSkills\Documents\MontesWork ( Don't touch )\CronogramaRetos\Seoul Stay\Seoul Stay\obj\Debug\Sections\Principal.baml
+C:\Users\Montes WorldSkills\Documents\MontesWork ( Don't touch )\CronogramaRetos\Seoul Stay\Seoul Stay\obj\Debug\Sections\PrincipalSections\Traveler.g.cs
+C:\Users\Montes WorldSkills\Documents\MontesWork ( Don't touch )\CronogramaRetos\Seoul Stay\Seoul Stay\obj\Debug\Sections\PrincipalSections\Traveler.baml
+C:\Users\Montes WorldSkills\Documents\MontesWork ( Don't touch )\CronogramaRetos\Seoul Stay\Seoul Stay\obj\Debug\Sections\PrincipalSections\Owner.g.cs
+C:\Users\Montes WorldSkills\Documents\MontesWork ( Don't touch )\CronogramaRetos\Seoul Stay\Seoul Stay\obj\Debug\Sections\PrincipalSections\Owner.baml
+C:\Users\Montes WorldSkills\Documents\MontesWork ( Don't touch )\CronogramaRetos\Seoul Stay\Seoul Stay\obj\Debug\Sections\PrincipalSections\Listing\Items\Details.g.cs
+C:\Users\Montes WorldSkills\Documents\MontesWork ( Don't touch )\CronogramaRetos\Seoul Stay\Seoul Stay\obj\Debug\Sections\PrincipalSections\Listing\ListArticle.g.cs
+C:\Users\Montes WorldSkills\Documents\MontesWork ( Don't touch )\CronogramaRetos\Seoul Stay\Seoul Stay\obj\Debug\Sections\PrincipalSections\Listing\Items\Details.baml
+C:\Users\Montes WorldSkills\Documents\MontesWork ( Don't touch )\CronogramaRetos\Seoul Stay\Seoul Stay\obj\Debug\Sections\PrincipalSections\Listing\ListArticle.baml
+C:\Users\Montes WorldSkills\Documents\MontesWork ( Don't touch )\CronogramaRetos\Seoul Stay\Seoul Stay\obj\Debug\Sections\PrincipalSections\Listing\Items\Amenities.g.cs
+C:\Users\Montes WorldSkills\Documents\MontesWork ( Don't touch )\CronogramaRetos\Seoul Stay\Seoul Stay\obj\Debug\Sections\PrincipalSections\Listing\Items\Amenities.baml
+C:\Users\Montes WorldSkills\Documents\MontesWork ( Don't touch )\CronogramaRetos\Seoul Stay\Seoul Stay\obj\Debug\Sections\PrincipalSections\Listing\Items\Atractions.g.cs
+C:\Users\Montes WorldSkills\Documents\MontesWork ( Don't touch )\CronogramaRetos\Seoul Stay\Seoul Stay\obj\Debug\Sections\PrincipalSections\Listing\Items\Atractions.baml

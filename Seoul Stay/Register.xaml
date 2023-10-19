@@ -1,0 +1,59 @@
+﻿<Window x:Class="Seoul_Stay.Register"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Seoul_Stay"
+        mc:Ignorable="d"
+        Title="Register" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="7*"/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="5*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Margin="0 10 0 0" Background="#aaa" Grid.Column="1" Grid.ColumnSpan="2">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0">
+                <Label VerticalAlignment="Center" Content="Username:"/>
+                <TextBox VerticalAlignment="Center" Margin="100 0 300 0"  x:Name="UserNameInput"/>
+                <RadioButton x:Name="maleRadio" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="546,0,0,0" Content="male"/>
+                <RadioButton VerticalAlignment="Top" HorizontalAlignment="Right" Content="female" Margin="0,25,22,0"/>
+            </Grid>
+            <Grid Grid.Row="1">
+                <Label VerticalAlignment="Center" Content="FullName:"/>
+                <TextBox VerticalAlignment="Center" Margin="100 0 300 0"  x:Name="FullNameInput"/>
+                <Label VerticalAlignment="Center" Content="Number of family members:" HorizontalAlignment="Left" Margin="457,0,0,0"/>
+                <TextBox VerticalAlignment="Center" HorizontalAlignment="Right" Width="30" Margin="0 0 50 0"  x:Name="FamilyInput"/>
+            </Grid>
+            <Grid Grid.Row="2">
+                <Label VerticalAlignment="Center" Content="Birthday:"/>
+                <DatePicker VerticalAlignment="Center" Margin="100 0 300 0"  x:Name="BirthDayInput"/>
+            </Grid>
+            <Grid Grid.Row="3">
+                <Label VerticalAlignment="Center" Content="Password:"/>
+                <PasswordBox VerticalAlignment="Center" Margin="100 0 400 0"  x:Name="PasswordInput"/>
+                <Label VerticalAlignment="Center" Margin="350 0 50 0" Content="ReType:"/>
+                <PasswordBox VerticalAlignment="Center" Margin="400 0 50 0"  x:Name="PasswordRepeat"/>
+            </Grid>
+            <Grid Grid.Row="4">
+                <CheckBox VerticalAlignment="Center" Content=" I agree to the Terms and Conditions"/>
+                <Button x:Name="ViewTerms" HorizontalAlignment="Left" VerticalAlignment="Center" Background="Transparent" Foreground="#00f" BorderThickness="0" Content="View Terms And Conditions" Margin="400 0 0 0"/>
+            </Grid>
+        </Grid>
+        <Button Grid.Column="1" Content="Register And Login" HorizontalAlignment="Left" Margin="350,0,0,0" Grid.Row="1" VerticalAlignment="Center" Click="RegisterEvent"/>
+        <Button Grid.Column="2" Content="Return to login" HorizontalAlignment="Left" Margin="32,0,0,0" Grid.Row="1" VerticalAlignment="Center" Click="Button_Click" />
+        <Border Grid.Row="4" Grid.ColumnSpan="3" BorderBrush="Black"  HorizontalAlignment="Stretch" BorderThickness="2"/>
+    </Grid>
+</Window>

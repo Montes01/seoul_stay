@@ -1,0 +1,34 @@
+﻿<Window x:Class="Seoul_Stay.Sections.PrincipalSections.Listing.ListArticle"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Seoul_Stay.Sections.PrincipalSections.Listing"
+        mc:Ignorable="d"
+        Title="ListArticle" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="8*"/>
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <TabControl>
+            <TabItem Header="Listing details">
+                <UserControl Name="ListingDetails"/>
+            </TabItem>
+            <TabItem Header="Amenities">
+                <UserControl Name="Amenities"/>
+            </TabItem>
+            <TabItem Header="Distance to atraction">
+                <UserControl Name="DistanceToAtraction"/>
+            </TabItem>
+
+        </TabControl>
+        <StackPanel Orientation="Horizontal" Grid.Row="1" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="25 0">
+            <Button Padding="0 9" Content="Next" Width="100" Margin="0 0 10 0"/>
+            <Button Content="Close/Finish" Width="100" Click="Button_Click" />
+        </StackPanel>
+        
+        
+        
+    </Grid>
+</Window>
